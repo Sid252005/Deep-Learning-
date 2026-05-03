@@ -1,0 +1,5 @@
+# Movie Recommendation + Review Bot — Dependencies
+# Install with: pip install -r requirements.txt
+
+openai>=1.0.0       # Grok uses OpenAI-compatible SDK
+gradio>=4.0.0       # Web UI
